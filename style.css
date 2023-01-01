@@ -1,0 +1,70 @@
+.banner {
+    background: url(img/1694.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom: 50%;
+    color: rgb(0, 0, 0);
+    }
+    .banner2 {
+        background: url(img/bgcat.jpg) no-repeat center center;
+        background-size: cover;
+        padding-top: 10%;
+        padding-bottom: 30%;
+        color: rgb(0, 0, 0);
+        }
+        .banner3 {
+            background: url(img/bgdog.jpg) no-repeat center center;
+            background-size: cover;
+            padding-top: 10%;
+            padding-bottom: 30%;
+            color: rgb(0, 0, 0);
+            }
+            .banner4 {
+                background: url(img/bgkel.jpg) no-repeat center center;
+                background-size: cover;
+                padding-top: 10%;
+                padding-bottom: 30%;
+                color: rgb(0, 0, 0);
+                }
+                .banner5 {
+                    background: url(img/girl.jpg) no-repeat center center;
+                    background-size: cover;
+                    padding-top: 10%;
+                    padding-bottom: 20%;
+                    color: rgb(0, 0, 0);
+                    }
+ #tentang {
+    background-color: #ffd700;
+ }  
+
+ .image-size {
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+    }
+    
+    #catfood  
+    
+     .image-size {
+        width: 100%;
+        height: 35vw;
+        object-fit: cover;
+        }
+
+        #dogfood  
+    
+        .image-size {
+           width: 100%;
+           height: 35vw;
+           object-fit: cover;
+           }
+
+           #kelengkapan 
+    
+        .image-size {
+           width: 100%;
+           height: 28vw;
+           object-fit: cover;
+           }
+
+
